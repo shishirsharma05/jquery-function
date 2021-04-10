@@ -1,0 +1,92 @@
+/*animation*/
+.animation-content{
+	margin: 30px 0 200px 0;
+}
+.animation{
+	margin-bottom: 100px;
+	background:#98bf21;
+	height:200px;
+	width:500px;
+	position:absolute;
+}
+
+/*slider*/
+.button2{
+	margin-bottom: 10px;
+}
+#panel, #flip {
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+  background-color: #235689;
+  color: white;
+  border: solid 1px #666;
+  border-radius: 3px;
+}
+
+#panel {
+  padding: 50px;
+  display: none;
+}
+
+/*Remove*/
+#div1{
+	height:100px;
+	width:300px;
+	color: white;
+	border:1px solid white;
+	background-color:black;
+}
+/*animation*/
+.bgc{
+	background:blue;
+	height:100px;
+	width:100px;
+}
+
+/*display demination*/
+#div2 {
+  height: 100px;
+  width: 300px;
+  padding: 10px;
+  margin: 3px;
+  border: 1px solid blue;
+  background-color: lightblue;
+}
+
+/*paramitars*/
+#div4{
+	width:200px;
+	height:100px;
+	display:none;
+	background-color:red;
+} 
+#div5{
+	width:200px;
+	height:100px;
+	display:none;
+	background-color:green;
+} 
+#div6{
+	width:200px;
+	height:100px;
+	display:none;
+	background-color:blue;
+}
+
+/*table*/
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
